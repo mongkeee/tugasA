@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerBehaviour : MonoBehaviour
 {
@@ -29,11 +30,11 @@ public class PlayerBehaviour : MonoBehaviour
             touchPos = transform.position;
         }
 
-        if (touchPos.x > transform.position.x + 0.05f)
+        if (touchPos.x > transform.position.x + 0.05f || Input.GetKey(KeyCode.D))
         {
             moveDir.x = moveSpeed;
         }
-        else if (touchPos.x < transform.position.x - 0.05f)
+        else if (touchPos.x < transform.position.x - 0.05f || Input.GetKey(KeyCode.A))
         {
             moveDir.x = -moveSpeed;
         }
@@ -46,5 +47,13 @@ public class PlayerBehaviour : MonoBehaviour
     private void FixedUpdate()
     {
         rb.MovePosition(rb.position + moveDir * Time.fixedDeltaTime);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.gameObject.tag == "Obstacle")
+        {
+            SceneManager.LoadScene("HighwayScene");
+        }
     }
 }

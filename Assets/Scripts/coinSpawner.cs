@@ -8,14 +8,12 @@ public class coinSpawner : MonoBehaviour
     [SerializeField] private float waktuSpawn = 5f;
     private float hitungan = 0f;
 
-    // Update is called once per frame
-    void Update()
+    private void FixedUpdate()
     {
         hitungan += Time.deltaTime;
         if (hitungan > waktuSpawn)
         {
-            int rng = Random.Range(-1, 1);
-            Instantiate(coinnya, new Vector3(rng >= 0 ? -0.48f : -1.435f, 7, 0), transform.rotation);
+            Instantiate(coinnya, transform.position, transform.rotation);
             hitungan = 0f;
         }
     }
