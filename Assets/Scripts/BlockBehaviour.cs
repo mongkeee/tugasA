@@ -10,7 +10,7 @@ public class BlockBehaviour : MonoBehaviour
     {
         transform.position += new Vector3(0, -speed, 0) * Time.fixedDeltaTime;
 
-        if (transform.position.y < -10f)
+        if (transform.position.y < -20f)
         {
             Destroy(gameObject);
         }
