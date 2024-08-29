@@ -54,7 +54,8 @@ public class CarObstacle : MonoBehaviour
 
     public void RayCastMobilDepan()
     {
-        RaycastHit2D hit = Physics2D.Raycast(new Vector2(transform.position.x, transform.position.y + this.GetComponent<BoxCollider2D>().size.y/2 + 0.1f), Vector2.up, 3);
+        float colSizeY = this.GetComponent<BoxCollider2D>().size.y;
+        RaycastHit2D hit = Physics2D.Raycast(new Vector2(transform.position.x, transform.position.y + colSizeY / 2 + 0.1f), Vector2.up, 3);
         if (hit.collider != null)
         {
             if(hit.collider.tag == "Obstacle")
