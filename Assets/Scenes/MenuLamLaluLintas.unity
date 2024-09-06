@@ -136,6 +136,7 @@ GameObject:
   - component: {fileID: 326345655}
   - component: {fileID: 326345654}
   - component: {fileID: 326345657}
+  - component: {fileID: 326345658}
   m_Layer: 5
   m_Name: btLamMerah
   m_TagString: Untagged
@@ -205,7 +206,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 326345655}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 326345658}
+        m_TargetAssemblyTypeName: LamLantasButton, Assembly-CSharp
+        m_MethodName: ButtonClicked
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &326345655
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -265,6 +278,22 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &326345658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 326345652}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d30852157c14b2f4ebdc0af776f0b797, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  txDeskripsi: {fileID: 0}
+  anim: {fileID: 0}
+  txValue: 1
+  frame: 0
 --- !u!1 &326400313
 GameObject:
   m_ObjectHideFlags: 0
@@ -689,6 +718,7 @@ GameObject:
   - component: {fileID: 1025784212}
   - component: {fileID: 1025784214}
   - component: {fileID: 1025784213}
+  - component: {fileID: 1025784215}
   m_Layer: 5
   m_Name: txDeskripsi
   m_TagString: Untagged
@@ -812,6 +842,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1025784211}
   m_CullTransparentMesh: 1
+--- !u!114 &1025784215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1025784211}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca135bcc96830024bb55a1b19c74622d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lamMerah: {fileID: 0}
+  lamKuning: {fileID: 0}
+  lamHijau: {fileID: 0}
+  tmp: {fileID: 0}
+  x: 0
 --- !u!1 &1136216133
 GameObject:
   m_ObjectHideFlags: 0
@@ -928,6 +975,7 @@ GameObject:
   - component: {fileID: 1171483530}
   - component: {fileID: 1171483529}
   - component: {fileID: 1171483532}
+  - component: {fileID: 1171483533}
   m_Layer: 5
   m_Name: btLamKuning
   m_TagString: Untagged
@@ -997,7 +1045,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1171483530}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1171483533}
+        m_TargetAssemblyTypeName: LamLantasButton, Assembly-CSharp
+        m_MethodName: ButtonClicked
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1171483530
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1057,6 +1117,22 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1171483533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1171483527}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d30852157c14b2f4ebdc0af776f0b797, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  txDeskripsi: {fileID: 0}
+  anim: {fileID: 0}
+  txValue: 2
+  frame: 0
 --- !u!1 &1275289263
 GameObject:
   m_ObjectHideFlags: 0
@@ -1348,6 +1424,7 @@ GameObject:
   - component: {fileID: 1757931155}
   - component: {fileID: 1757931154}
   - component: {fileID: 1757931157}
+  - component: {fileID: 1757931158}
   m_Layer: 5
   m_Name: btLamHijau
   m_TagString: Untagged
@@ -1417,7 +1494,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1757931155}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1757931158}
+        m_TargetAssemblyTypeName: LamLantasButton, Assembly-CSharp
+        m_MethodName: ButtonClicked
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1757931155
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1477,6 +1566,22 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1757931158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1757931152}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d30852157c14b2f4ebdc0af776f0b797, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  txDeskripsi: {fileID: 0}
+  anim: {fileID: 0}
+  txValue: 3
+  frame: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

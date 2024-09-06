@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: 9ab5660cebcaa6b4db0120ffd0b8b765
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1871.2
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654c05b05cce9dd47b76edca9ff22c2f
+      internalID: 1454684721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1871.2
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e808b785a9d2642b464547b7544e32
+      internalID: 1434082045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_2
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1871.2
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfac7cd25c752a04a8dedf9f4b9afc99
+      internalID: -1583066982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_3
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1871.2
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4601c3d8c93534441a8e4d4e0269593c
+      internalID: 697720085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1404.2
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6af6f18e7aabd0498443c51e76749b2
+      internalID: 36595635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_5
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1404.2
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ab80db0f2e07641ac1a1275cb16278
+      internalID: 713766570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_6
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1404.2
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9eb33ec150dedc4bb7664c8e76c2706
+      internalID: -1849642940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_7
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1404.2
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077446a2b2f45d04cb40438da4638abe
+      internalID: 1197004109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 937.2
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dc3f1e80858e844856b07e57a21895
+      internalID: 225288532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 937.2
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b12775dabe1774ea4b12cc4c0f4dcf
+      internalID: -1434578618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_10
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 937.2
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f15252b1a57964f9681a727f06e844
+      internalID: -1843719065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_11
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 937.2
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab58b12af60b3644ae4a3cfe7b3c424
+      internalID: -1299370331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470.2
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e800f2db57f4834caa2d451f662b3b8
+      internalID: -1664316749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_13
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 470.2
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea54536831b99274187bb68924835a78
+      internalID: 2006174018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_14
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 470.2
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef74925bdc6f36247aca3b230ab35579
+      internalID: 30144456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_15
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 470.2
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0876db808d96d549a0beee5ebf777a2
+      internalID: -73940929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.2000122
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8ef08e8ddd6d34bb4c8a32843f5e78
+      internalID: -28171264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_17
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3.2000122
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1be2346767a9c04da989a8c4555ccd3
+      internalID: -707013211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_18
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 3.2000122
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9b602939024544da9adf7a4d34336c
+      internalID: 2082496833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPetunjukNew_19
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 3.2000122
+        width: 467.75
+        height: 467.8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa06765a465ccd4e937417d7ad4fd16
+      internalID: -1614566117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprsheet_rambuPetunjukNew_0: 1454684721
+      sprsheet_rambuPetunjukNew_1: 1434082045
+      sprsheet_rambuPetunjukNew_10: -1843719065
+      sprsheet_rambuPetunjukNew_11: -1299370331
+      sprsheet_rambuPetunjukNew_12: -1664316749
+      sprsheet_rambuPetunjukNew_13: 2006174018
+      sprsheet_rambuPetunjukNew_14: 30144456
+      sprsheet_rambuPetunjukNew_15: -73940929
+      sprsheet_rambuPetunjukNew_16: -28171264
+      sprsheet_rambuPetunjukNew_17: -707013211
+      sprsheet_rambuPetunjukNew_18: 2082496833
+      sprsheet_rambuPetunjukNew_19: -1614566117
+      sprsheet_rambuPetunjukNew_2: -1583066982
+      sprsheet_rambuPetunjukNew_3: 697720085
+      sprsheet_rambuPetunjukNew_4: 36595635
+      sprsheet_rambuPetunjukNew_5: 713766570
+      sprsheet_rambuPetunjukNew_6: -1849642940
+      sprsheet_rambuPetunjukNew_7: 1197004109
+      sprsheet_rambuPetunjukNew_8: 225288532
+      sprsheet_rambuPetunjukNew_9: -1434578618
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

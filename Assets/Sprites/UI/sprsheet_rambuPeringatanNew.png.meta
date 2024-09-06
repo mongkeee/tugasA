@@ -1,0 +1,836 @@
+fileFormatVersion: 2
+guid: f4ddda83f8546f04e97b30948ffe42ff
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3274.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59d993a513062844a668bd40df61a4a
+      internalID: -769563150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3274.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa6ea75dd943464cbabd4bff30d0409
+      internalID: -2045866368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_2
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 3274.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9177cbd92ad86654c9c9ad702eb33cf7
+      internalID: 536722585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_3
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 3274.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9894e352f93174a95c7a57b7338c0f
+      internalID: 1748062749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2807.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a3074c158e910488413c0343bff494
+      internalID: -531048587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_5
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2807.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952d1ada0ad04a046bf79887f3c3ee48
+      internalID: 419256788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_6
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 2807.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bff769764fc7242b7ea99d6c5a5259
+      internalID: -20944489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_7
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 2807.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68342f390f3f2a345a776f2186e626f8
+      internalID: -513177777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2340.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55658e5d4f19db94dab54869a4138018
+      internalID: -1810729194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2340.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f437c3eb070282549af5054940f73471
+      internalID: 1894079074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_10
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 2340.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c05572fe4d7eb640a29049bdab1b3a6
+      internalID: 713806954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_11
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 2340.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a15e38ca9a97b409222de085a16831
+      internalID: -1980967339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1873.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b5f67c9d3fbab42950d47abfe3aae1
+      internalID: 1342475952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_13
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1873.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ca1f2426068364ab210886fdb5b197
+      internalID: 1641741941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_14
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1873.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492c813769a58924c904822d7c45ca3f
+      internalID: 266950201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_15
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1873.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e20297063c6a64449e902950f16ab18
+      internalID: 227471871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1406.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9549d5dfe5bdb4791726c6ce06c795
+      internalID: -758577039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_17
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1406.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed35fb9f30978e418776096a66be52b
+      internalID: 2024374383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_18
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1406.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a199069293f3a043be05a6b4cbc8728
+      internalID: 1694724385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_19
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1406.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930f6f30664561144a389595fbdaf791
+      internalID: -327535080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 939.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c90c0c0b0c0a646af0e6b6484cdaa9
+      internalID: -581677363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_21
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 939.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bafe3f235f722428f5d81e2b5f7a9a
+      internalID: 1005751745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_22
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 939.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb645869e609f247ae8be7749eb28ce
+      internalID: -1358907761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_23
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 939.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2691566216898c54e811117491cd8d17
+      internalID: 1785915652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28653c0f5bbc67e468b995dbd0952323
+      internalID: 15480492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_25
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 472.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70380f414457c6742908dd36b1d7b099
+      internalID: -837181802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_26
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 472.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dd570e0ab52404e89af4cc7d74032f
+      internalID: -65625835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_27
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 472.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2d3e4510cf1a2499a17f0c0a9340dd
+      internalID: 1649452529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463871fcb4e7dbd44beb1dc0f5f163e5
+      internalID: 1283656804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_29
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 5.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e168b50c7fc351549bc22ba4a6761543
+      internalID: -1672031010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuPeringatanNew_30
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 5.25
+        width: 467.75
+        height: 467.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8a9acb8c545a345b20abb17fa8b541
+      internalID: 1176401133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprsheet_rambuPeringatanNew_0: -769563150
+      sprsheet_rambuPeringatanNew_1: -2045866368
+      sprsheet_rambuPeringatanNew_10: 713806954
+      sprsheet_rambuPeringatanNew_11: -1980967339
+      sprsheet_rambuPeringatanNew_12: 1342475952
+      sprsheet_rambuPeringatanNew_13: 1641741941
+      sprsheet_rambuPeringatanNew_14: 266950201
+      sprsheet_rambuPeringatanNew_15: 227471871
+      sprsheet_rambuPeringatanNew_16: -758577039
+      sprsheet_rambuPeringatanNew_17: 2024374383
+      sprsheet_rambuPeringatanNew_18: 1694724385
+      sprsheet_rambuPeringatanNew_19: -327535080
+      sprsheet_rambuPeringatanNew_2: 536722585
+      sprsheet_rambuPeringatanNew_20: -581677363
+      sprsheet_rambuPeringatanNew_21: 1005751745
+      sprsheet_rambuPeringatanNew_22: -1358907761
+      sprsheet_rambuPeringatanNew_23: 1785915652
+      sprsheet_rambuPeringatanNew_24: 15480492
+      sprsheet_rambuPeringatanNew_25: -837181802
+      sprsheet_rambuPeringatanNew_26: -65625835
+      sprsheet_rambuPeringatanNew_27: 1649452529
+      sprsheet_rambuPeringatanNew_28: 1283656804
+      sprsheet_rambuPeringatanNew_29: -1672031010
+      sprsheet_rambuPeringatanNew_3: 1748062749
+      sprsheet_rambuPeringatanNew_30: 1176401133
+      sprsheet_rambuPeringatanNew_31: -398754062
+      sprsheet_rambuPeringatanNew_4: -531048587
+      sprsheet_rambuPeringatanNew_5: 419256788
+      sprsheet_rambuPeringatanNew_6: -20944489
+      sprsheet_rambuPeringatanNew_7: -513177777
+      sprsheet_rambuPeringatanNew_8: -1810729194
+      sprsheet_rambuPeringatanNew_9: 1894079074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

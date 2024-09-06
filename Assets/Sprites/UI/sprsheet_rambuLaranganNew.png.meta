@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 0590b4cce5611714193963b1bfb827ee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1871.2
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5268dc283df236840a93710421b68146
+      internalID: -2100296784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1871.2
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744bf4a4f92d271418738d2c0eb482c7
+      internalID: 77044433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_2
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1871.2
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950003cce1c15ab48a36648842f21299
+      internalID: -388815953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_3
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1871.2
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81813bdda66d8aa4bb30b2fad03610fd
+      internalID: 337734352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1404.2
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766433871fbba35428a5061110079404
+      internalID: -480291519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_5
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1404.2
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e878228746d3c39428b3feb7578a7c0d
+      internalID: 1211784957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_6
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1404.2
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5df8b50d407fb4d89c94a41821148a
+      internalID: 1280992244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_7
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1404.2
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfc3d28eaa9dd74c97db30370ad53e8
+      internalID: -1254042407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 937.2
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea9e093e4c019d4d91ee1e7105dd58b
+      internalID: -1623617192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 937.2
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93b2e9e83b527a4ab7fd0d90824edd5
+      internalID: 225108472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_10
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 937.2
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffdca9a62a4c4140acaf661cb54fb89
+      internalID: -1507947802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_11
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 937.2
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a571ac92e1f1fa84cac08c006dc9d315
+      internalID: 1896846886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470.2
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43aa1cb93a34e2d4fbfef425fb18d145
+      internalID: 1135436459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_13
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 470.2
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bd30266c097e348ab47558d27dd03f
+      internalID: -22335714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_14
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 470.2
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d47f6d5dc3baa741b4884f12cf94d7d
+      internalID: 180620271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_15
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 470.2
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaf1eec2f2a61549bcf935d803ec67b
+      internalID: -1109200596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.2000122
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0117e92ba773d54d9736f1f7d8ccb6e
+      internalID: 490430988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_17
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3.2000122
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b940ff339412c844c8cc533494bbb249
+      internalID: -854426077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_rambuLaranganNew_18
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 3.2000122
+        width: 467.75
+        height: 467.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2369fc5f1f54ae419698d30b600d221
+      internalID: -9908142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprsheet_rambuLaranganNew_0: -2100296784
+      sprsheet_rambuLaranganNew_1: 77044433
+      sprsheet_rambuLaranganNew_10: -1507947802
+      sprsheet_rambuLaranganNew_11: 1896846886
+      sprsheet_rambuLaranganNew_12: 1135436459
+      sprsheet_rambuLaranganNew_13: -22335714
+      sprsheet_rambuLaranganNew_14: 180620271
+      sprsheet_rambuLaranganNew_15: -1109200596
+      sprsheet_rambuLaranganNew_16: 490430988
+      sprsheet_rambuLaranganNew_17: -854426077
+      sprsheet_rambuLaranganNew_18: -9908142
+      sprsheet_rambuLaranganNew_19: 153880784
+      sprsheet_rambuLaranganNew_2: -388815953
+      sprsheet_rambuLaranganNew_3: 337734352
+      sprsheet_rambuLaranganNew_4: -480291519
+      sprsheet_rambuLaranganNew_5: 1211784957
+      sprsheet_rambuLaranganNew_6: 1280992244
+      sprsheet_rambuLaranganNew_7: -1254042407
+      sprsheet_rambuLaranganNew_8: -1623617192
+      sprsheet_rambuLaranganNew_9: 225108472
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
