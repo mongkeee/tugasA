@@ -8,6 +8,30 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d151f521d584add4f88d104906d311f6
+  - enabled: 1
+    path: Assets/Scenes/MenuLamLaluLintas.unity
+    guid: a64ec7ca5fd71574e8a7476b292d4154
+  - enabled: 1
+    path: Assets/Scenes/MenuLamSein.unity
+    guid: f35a7b7e35e98574bbe56009a9217f00
+  - enabled: 1
+    path: Assets/Scenes/MenuRambuLarangan.unity
+    guid: 924886d82eaa3eb40bec909b059d415d
+  - enabled: 1
+    path: Assets/Scenes/MenuRambuPeringatan.unity
+    guid: 20a92134fa052664fa3846ece93b23f4
+  - enabled: 1
+    path: Assets/Scenes/MenuRambuPerintah.unity
+    guid: 9873789b7258f6b4c994306e889f8b53
+  - enabled: 1
+    path: Assets/Scenes/MenuRambuPetunjuk.unity
+    guid: 568d2f848cf8fc34390f0dc29c0356f4
+  - enabled: 0
+    path: Assets/Scenes/HighwayScene.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
   m_configObjects:
     com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 7dcdeefe1b58c6e4bbb3acff30ede565, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 7887142a040f40745b93974dbf2e4b8a, type: 2}

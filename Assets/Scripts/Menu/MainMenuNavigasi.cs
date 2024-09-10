@@ -1,10 +1,13 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MainMenuNavigasi : MonoBehaviour
 {
     [SerializeField] private Animator anim;
+    [SerializeField] private string pergiKeScene;
 
     // Start is called before the first frame update
     void Start()
@@ -30,5 +33,23 @@ public class MainMenuNavigasi : MonoBehaviour
     public void kembaliBelajar()
     {
         anim.Play("mainMenu_toBelajar_Reversed", 0);
+    }
+
+    public void milihBelajar(string pilihannya)
+    {
+        pergiKeScene = pilihannya;
+        anim.Play("mainMenu_pilihBelajar");
+    }
+
+    private void pergi()
+    {
+        Debug.Log(pergiKeScene);
+        SceneManager.LoadScene(pergiKeScene);
+    }
+
+    public void kembaliKeMenu()
+    {
+        pergiKeScene = "MainMenu";
+        anim.Play("menuBelajar_kembaliMenu");
     }
 }

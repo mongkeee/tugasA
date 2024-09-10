@@ -268,7 +268,6 @@ GameObject:
   m_Component:
   - component: {fileID: 205240010}
   - component: {fileID: 205240012}
-  - component: {fileID: 205240013}
   - component: {fileID: 205240011}
   m_Layer: 5
   m_Name: UI_notifPerbaikan_kiri
@@ -327,18 +326,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 205240009}
   m_CullTransparentMesh: 1
---- !u!114 &205240013
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 205240009}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6c767d13c9bccb04e8a81e960840af12, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &246385742
 PrefabInstance:
   m_ObjectHideFlags: 0

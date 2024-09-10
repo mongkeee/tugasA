@@ -11,7 +11,7 @@ public class LamLantasButton : MonoBehaviour
     void Start()
     {
         anim = this.GetComponent<Animator>();
-        txDeskripsi = GameObject.Find("Canvas/menuLamLaluLintas/imgDeskripsi/txDeskripsi").GetComponent<LamLantasDeskripsi>();
+        txDeskripsi = GameObject.Find("Canvas/menu/imgDeskripsi/txDeskripsi").GetComponent<LamLantasDeskripsi>();
     }
 
     public void ButtonClicked()

@@ -17,8 +17,8 @@ public class rambuLaluLintas : MonoBehaviour
     void Start()
     {
         gambarRambu = this.GetComponent<Image>().sprite;
-        objGambar = GameObject.Find("Canvas/menuRambu/imgArtiRambu/imgGambarRambu");
-        objArti = GameObject.Find("Canvas/menuRambu/imgArtiRambu/txArtiRambu");
+        objGambar = GameObject.Find("Canvas/menu/imgArtiRambu/imgGambarRambu");
+        objArti = GameObject.Find("Canvas/menu/imgArtiRambu/txArtiRambu");
     }
 
     public void pasDiteken()

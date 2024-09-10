@@ -280,7 +280,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 55766041}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1930955090}
+        m_TargetAssemblyTypeName: MainMenuNavigasi, Assembly-CSharp
+        m_MethodName: milihBelajar
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: MenuRambuPeringatan
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &55766041
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -401,7 +413,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 171803680}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1930955090}
+        m_TargetAssemblyTypeName: MainMenuNavigasi, Assembly-CSharp
+        m_MethodName: milihBelajar
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: MenuRambuPerintah
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &171803680
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -959,7 +983,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 308177829}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1930955090}
+        m_TargetAssemblyTypeName: MainMenuNavigasi, Assembly-CSharp
+        m_MethodName: milihBelajar
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: MenuLamSein
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &308177829
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2551,7 +2587,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1031028977}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1930955090}
+        m_TargetAssemblyTypeName: MainMenuNavigasi, Assembly-CSharp
+        m_MethodName: milihBelajar
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: MenuRambuLarangan
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1031028977
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3894,7 +3942,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1852667867}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1930955090}
+        m_TargetAssemblyTypeName: MainMenuNavigasi, Assembly-CSharp
+        m_MethodName: milihBelajar
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: MenuLamLaluLintas
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1852667867
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4509,6 +4569,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   anim: {fileID: 0}
+  pergiKeScene: 
 --- !u!1 &1954556366
 GameObject:
   m_ObjectHideFlags: 0
@@ -4862,7 +4923,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2025310916}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1930955090}
+        m_TargetAssemblyTypeName: MainMenuNavigasi, Assembly-CSharp
+        m_MethodName: milihBelajar
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: MenuRambuPetunjuk
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2025310916
 MonoBehaviour:
   m_ObjectHideFlags: 0

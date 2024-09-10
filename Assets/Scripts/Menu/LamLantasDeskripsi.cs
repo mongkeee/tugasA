@@ -14,9 +14,9 @@ public class LamLantasDeskripsi : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        lamMerah = GameObject.Find("Canvas/menuLamLaluLintas/imgLamLaluLintas/btLamMerah").GetComponent<LamLantasButton>();
-        lamKuning = GameObject.Find("Canvas/menuLamLaluLintas/imgLamLaluLintas/btLamKuning").GetComponent<LamLantasButton>();
-        lamHijau = GameObject.Find("Canvas/menuLamLaluLintas/imgLamLaluLintas/btLamHijau").GetComponent<LamLantasButton>();
+        lamMerah = GameObject.Find("Canvas/menu/imgLamLaluLintas/btLamMerah").GetComponent<LamLantasButton>();
+        lamKuning = GameObject.Find("Canvas/menu/imgLamLaluLintas/btLamKuning").GetComponent<LamLantasButton>();
+        lamHijau = GameObject.Find("Canvas/menu/imgLamLaluLintas/btLamHijau").GetComponent<LamLantasButton>();
         tmp = this.GetComponent<TextMeshProUGUI>();
     }
 
